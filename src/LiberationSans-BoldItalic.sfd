@@ -4,7 +4,7 @@ FullName: Liberation Sans Bold Italic
 FamilyName: Liberation Sans
 Weight: Bold
 Copyright: Copyright (c) 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
-Version: 1.07.2
+Version: 1.07.4
 ItalicAngle: -12
 UnderlinePosition: -110
 UnderlineWidth: 215
@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123372800
-ModificationTime: 1327998476
+ModificationTime: 1385997808
 PfmFamily: 17
 TTFWeight: 700
 TTFWidth: 5
@@ -2992,18 +2992,18 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Bold Italic" "Ascender - Liberation Sans Bold Italic" "" "Version 1.07.2" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Liberation Fonts license, see https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" "https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" 
-GaspTable: 3 8 2 10 1 65535 3
+LangName: 1033 "" "" "Bold Italic" "Ascender - Liberation Sans Bold Italic" "" "Version 1.07.4" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Liberation Fonts license, see https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" "https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" 
+GaspTable: 3 8 2 10 1 65535 3 0
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 44 44 17
+WinInfo: 9766 38 14
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114132 682
+BeginChars: 1114132 687
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -7173,7 +7173,6 @@ SplineSet
  985 0 l 1,10,-1
  33 0 l 1,0,-1
 EndSplineSet
-Kerns2: 20 -152 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
 StartChar: two
@@ -38440,11 +38439,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-753 1203 m 1,0,-1
- 167 1203 l 1,1,-1
- 200 1371 l 1,2,-1
- 790 1371 l 1,3,-1
- 753 1203 l 1,0,-1
+753 1203 m 5,0,-1
+ 167 1203 l 5,1,-1
+ 200 1371 l 5,2,-1
+ 790 1371 l 5,3,-1
+ 753 1203 l 5,0,-1
 EndSplineSet
 EndChar
 
@@ -53862,7 +53861,7 @@ SplineSet
  686 -20 686 -20 574 -20 c 0,26,27
 EndSplineSet
 Kerns2: 482 -27 "'kern' Horizontal Kerning lookup 0 subtable"  479 -104 "'kern' Horizontal Kerning lookup 0 subtable"  476 -78 "'kern' Horizontal Kerning lookup 0 subtable"  474 -51 "'kern' Horizontal Kerning lookup 0 subtable"  472 -51 "'kern' Horizontal Kerning lookup 0 subtable"  465 -27 "'kern' Horizontal Kerning lookup 0 subtable"  464 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -27 "'kern' Horizontal Kerning lookup 0 subtable"  459 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" S_BE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10066.alt1
 EndChar
 
 StartChar: afii10067
@@ -54293,7 +54292,7 @@ SplineSet
  635 911 635 911 580 911 c 0,0,1
 EndSplineSet
 Kerns2: 484 -27 "'kern' Horizontal Kerning lookup 0 subtable"  470 -51 "'kern' Horizontal Kerning lookup 0 subtable"  467 -51 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  458 -51 "'kern' Horizontal Kerning lookup 0 subtable"  457 -78 "'kern' Horizontal Kerning lookup 0 subtable"  453 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -27 "'kern' Horizontal Kerning lookup 0 subtable"  15 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" imacron
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10068.alt1
 EndChar
 
 StartChar: afii10069
@@ -54453,7 +54452,7 @@ SplineSet
  460 172 460 172 567 172 c 0,49,50
 EndSplineSet
 Kerns2: 460 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" g
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10069.alt1
 EndChar
 
 StartChar: afii10070
@@ -56239,7 +56238,7 @@ SplineSet
  1017 0 l 1,43,-1
  738 0 l 1,0,-1
 EndSplineSet
-Substitution2: "'locl' Localized Forms lookup 0-1" umacron
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10081.alt1
 EndChar
 
 StartChar: afii10082
@@ -56270,7 +56269,7 @@ LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
 Kerns2: 482 -51 "'kern' Horizontal Kerning lookup 0 subtable"  472 -51 "'kern' Horizontal Kerning lookup 0 subtable"  470 -27 "'kern' Horizontal Kerning lookup 0 subtable"  467 -27 "'kern' Horizontal Kerning lookup 0 subtable"  465 -27 "'kern' Horizontal Kerning lookup 0 subtable"  464 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -51 "'kern' Horizontal Kerning lookup 0 subtable"  459 -27 "'kern' Horizontal Kerning lookup 0 subtable"  458 -27 "'kern' Horizontal Kerning lookup 0 subtable"  457 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -27 "'kern' Horizontal Kerning lookup 0 subtable"  15 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" S_TE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10084.alt1
 EndChar
 
 StartChar: afii10085
@@ -57529,6 +57528,7 @@ SplineSet
  373 311 l 1,63,64
  376 190 376 190 499 190 c 0,0,1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10090.alt1
 EndChar
 
 StartChar: afii10091
@@ -79257,148 +79257,35 @@ StartChar: musicalnotedbl
 Encoding: 9835 9835 646
 Width: 1536
 Flags: W
-TtInstrs:
-NPUSHB
- 61
- 35
- 32
- 64
- 18
- 26
- 128
- 36
- 15
- 64
- 111
- 0
- 1
- 0
- 128
- 15
- 9
- 1
- 9
- 9
- 0
- 26
- 1
- 26
- 17
- 35
- 86
- 35
- 1
- 67
- 35
- 1
- 35
- 16
- 36
- 54
- 36
- 1
- 37
- 36
- 1
- 20
- 36
- 1
- 3
- 36
- 1
- 8
- 36
- 34
- 38
- 33
- 88
- 33
- 1
- 33
- 37
- 34
- 30
- 23
- 13
- 6
-SVTCA[y-axis]
-MDAP[rnd]
-MDRP[min,rnd,black]
-MDAP[rnd]
-MDRP[min,rnd,black]
-MDAP[rnd]
-SHP[rp1]
-SHP[rp1]
-DELTAP1
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-SDB
-DELTAP1
-DELTAP1
-DELTAP1
-DELTAP1
-SRP1
-SHP[rp1]
-SHP[rp1]
-DELTAP1
-DELTAP1
-SRP1
-SHP[rp1]
-SVTCA[x-axis]
-MDAP[rnd]
-DELTAP1
-SHP[rp1]
-MDAP[rnd]
-DELTAP1
-SMD
-MDRP[rp0,min,rnd,black]
-DELTAP1
-SMD
-MDRP[min,rnd,black]
-SHP[rp2]
-SMD
-SRP0
-MDRP[rp0,min,rnd,black]
-SMD
-MDRP[min,rnd,black]
-SHP[rp1]
-IUP[x]
-IUP[y]
-EndTTInstrs
+HStem: -51 293<973.813 1151.51> 137 291<348.35 530.555>
+VStem: 565 74<409 1043> 1189 74<224 952>
 LayerCount: 2
 Fore
 SplineSet
-1263 324 m 2,0,1
- 1263 261 1263 261 1245 210.5 c 128,-1,2
- 1227 160 1227 160 1189 125 c 1,3,4
- 1152 88 1152 88 1108 68.5 c 128,-1,5
- 1064 49 1064 49 1013 49 c 0,6,7
- 956 49 956 49 927.5 76 c 128,-1,8
- 899 103 899 103 899 150 c 0,9,10
- 899 226 899 226 956 283 c 1,11,12
- 1018 342 1018 342 1099 342 c 0,13,14
- 1147 342 1147 342 1189 324 c 1,15,-1
- 1189 772 l 1,16,-1
- 639 623 l 1,17,-1
- 639 229 l 2,18,19
- 639 167 639 167 620.5 118 c 128,-1,20
- 602 69 602 69 567 31 c 1,21,22
- 493 -43 493 -43 387 -43 c 0,23,24
- 330 -43 330 -43 301 -16.5 c 128,-1,25
- 272 10 272 10 272 55 c 0,26,27
- 272 131 272 131 331 188 c 1,28,29
- 391 248 391 248 475 248 c 0,30,31
- 520 248 520 248 565 229 c 1,32,-1
- 565 981 l 1,33,-1
- 1263 1159 l 1,34,-1
- 1263 324 l 2,0,1
-639 750 m 1,35,-1
- 1189 899 l 1,36,-1
- 1189 1016 l 1,37,-1
- 639 864 l 1,38,-1
- 639 750 l 1,35,-1
+1263 224 m 2,0,1
+ 1263 161 1263 161 1245 110.5 c 128,-1,2
+ 1227 60 1227 60 1189 25 c 1,3,4
+ 1152 -12 1152 -12 1108 -31.5 c 128,-1,5
+ 1064 -51 1064 -51 1013 -51 c 0,6,7
+ 956 -51 956 -51 927.5 -24 c 128,-1,8
+ 899 3 899 3 899 50 c 0,9,10
+ 899 126 899 126 956 183 c 1,11,12
+ 1018 242 1018 242 1099 242 c 0,13,14
+ 1147 242 1147 242 1189 224 c 1,15,-1
+ 1189 952 l 1,16,-1
+ 639 1043 l 1,17,-1
+ 639 409 l 2,18,19
+ 639 347 639 347 620.5 298 c 128,-1,20
+ 602 249 602 249 567 211 c 1,21,22
+ 493 137 493 137 387 137 c 0,23,24
+ 330 137 330 137 301 163.5 c 128,-1,25
+ 272 190 272 190 272 235 c 0,26,27
+ 272 311 272 311 331 368 c 1,28,29
+ 391 428 391 428 475 428 c 0,30,31
+ 520 428 520 428 565 409 c 1,32,-1
+ 565 1161 l 1,33,-1
+ 1263 1059 l 1,34,-1
+ 1263 224 l 2,0,1
 EndSplineSet
 EndChar
 
@@ -80985,12 +80872,12 @@ EndChar
 
 StartChar: uni040D
 Encoding: 1037 1037 675
-Width: 1479
+Width: 1473
 Flags: W
 LayerCount: 2
 Fore
+Refer: 429 1048 N 1 0 0 1 0 0 2
 Refer: 67 96 N 1 0 0 1 336 306 2
-Refer: 49 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni045D
@@ -81053,63 +80940,165 @@ EndSplineSet
 Refer: 467 1086 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: S_BE
+StartChar: afii10066.alt1
 Encoding: 1114109 -1 680
-Width: 1242
+Width: 1140
 Flags: W
 LayerCount: 2
 Fore
 SplineSet
-805.634 487 m 0,0,1
- 820.301 556 820.301 556 816.734 614.5 c 128,-1,2
- 813.17 673 813.17 673 796.51 724 c 128,-1,3
- 779.851 775 779.851 775 753.203 819 c 128,-1,4
- 726.555 863 726.555 863 695.058 903 c 1,5,6
- 622.956 879 622.956 879 561.379 841 c 128,-1,7
- 499.802 803 499.802 803 450.643 750.5 c 128,-1,8
- 401.483 698 401.483 698 366.742 631 c 128,-1,9
- 332.001 564 332.001 564 314.358 481 c 0,10,11
- 300.33 415 300.33 415 302.427 359 c 128,-1,12
- 304.523 303 304.523 303 324.915 262.5 c 128,-1,13
- 345.307 222 345.307 222 384.918 199 c 128,-1,14
- 424.529 176 424.529 176 485.529 176 c 0,15,16
- 555.529 176 555.529 176 609.023 199.5 c 128,-1,17
- 662.519 223 662.519 223 701.233 264 c 128,-1,18
- 739.948 305 739.948 305 765.671 362.5 c 128,-1,19
- 791.393 420 791.393 420 805.634 487 c 0,0,1
-705.732 1297.6 m 1,20,21
- 1022.88 928.474 1022.88 928.474 1040.99 898 c 0,22,23
- 1074.88 841 1074.88 841 1092.78 777 c 128,-1,24
- 1110.67 713 1110.67 713 1111.66 640 c 128,-1,25
- 1112.64 567 1112.64 567 1094.78 483 c 0,26,27
- 1071.83 375 1071.83 375 1016.67 282.5 c 128,-1,28
- 961.505 190 961.505 190 878.264 123 c 128,-1,29
- 795.022 56 795.022 56 686.445 18 c 128,-1,30
- 577.868 -20 577.868 -20 448.868 -20 c 0,31,32
- 321.868 -20 321.868 -20 230.201 14.5 c 128,-1,33
- 138.534 49 138.534 49 84.7441 113.5 c 128,-1,34
- 30.9541 178 30.9541 178 15.2217 271 c 128,-1,35
- -0.510736 364 -0.510736 364 24.3584 481 c 0,36,37
- 47.7402 591 47.7402 591 102.52 677 c 128,-1,38
- 157.3 763 157.3 763 234.828 829 c 128,-1,39
- 312.357 895 312.357 895 406.953 942.5 c 128,-1,40
- 501.55 990 501.55 990 604.564 1023 c 1,41,-1
- 359.307 1337 l 1,42,43
- 646.704 1673.84 646.704 1673.84 1260.13 1562 c 1,44,-1
- 1219.75 1372 l 1,45,46
- 939.126 1446.6 939.126 1446.6 705.732 1297.6 c 1,20,21
+760.491 504 m 0,0,1
+ 782.164 584.886 782.164 584.886 777.363 653.496 c 0,2,3
+ 770.59 750.337 770.59 750.337 755.933 774.82 c 0,4,5
+ 752.33 780.343 752.33 780.343 748.989 785.094 c 0,6,7
+ 686.991 873.576 686.991 873.576 602.144 872.521 c 128,-1,8
+ 517.297 871.466 517.297 871.466 399.169 780.29 c 1,9,10
+ 343.146 735.29 343.146 735.29 291.012 658.497 c 0,11,12
+ 244.553 590.067 244.553 590.067 221.491 504 c 0,13,14
+ 202.007 431.284 202.007 431.284 201.957 368.953 c 0,15,16
+ 201.911 308.214 201.911 308.214 223.619 264.133 c 0,17,18
+ 244.958 220.8 244.958 220.8 288.536 195.901 c 128,-1,19
+ 332.118 171.001 332.118 171.001 403.264 171 c 0,20,21
+ 478.552 171 478.552 171 535.977 195.52 c 0,22,23
+ 592.809 219.786 592.809 219.786 634.971 262.191 c 0,24,25
+ 678.166 305.637 678.166 305.637 708.755 366.257 c 0,26,27
+ 740.372 428.916 740.372 428.916 760.491 504 c 0,0,1
+998.354 844.269 m 0,28,29
+ 1020.6 781.667 1020.6 781.667 1024.22 691.861 c 0,30,31
+ 1027.56 608.74 1027.56 608.74 1000.56 508 c 0,32,33
+ 969.94 393.716 969.94 393.716 911.066 298.707 c 0,34,35
+ 851.588 202.72 851.588 202.72 767.911 133.388 c 0,36,37
+ 683.982 63.8467 683.982 63.8467 578.64 25.7881 c 0,38,39
+ 474.045 -12 474.045 -12 354.229 -12 c 0,40,41
+ 235.666 -12 235.666 -12 150.937 23.6133 c 0,42,43
+ 65.4346 59.5518 65.4346 59.5518 17.1465 126.963 c 128,-1,44
+ -31.1357 194.367 -31.1357 194.367 -40.0947 291.019 c 0,45,46
+ -48.958 386.632 -48.958 386.632 -16.9736 506 c 0,47,48
+ 14.3711 622.979 14.3711 622.979 77.5898 715.578 c 0,49,50
+ 138.79 805.22 138.79 805.22 193.109 868.345 c 0,51,52
+ 239.689 922.478 239.689 922.478 308.254 975.325 c 1,53,54
+ 179.817 1104.5 179.817 1104.5 235.715 1269.9 c 1,55,56
+ 272.053 1403.98 272.053 1403.98 403.298 1504.95 c 128,-1,57
+ 534.644 1606 534.644 1606 702.771 1606 c 2,58,-1
+ 1210.77 1606 l 2,59,60
+ 1220.77 1606 1220.77 1606 1226.26 1598.5 c 128,-1,61
+ 1231.75 1591 1231.75 1591 1229.07 1581 c 2,62,-1
+ 1189.68 1434 l 2,63,64
+ 1187 1424 1187 1424 1177.49 1416.5 c 128,-1,65
+ 1167.98 1409 1167.98 1409 1157.98 1409 c 2,66,-1
+ 685.984 1409 l 2,67,68
+ 595.508 1409 595.508 1409 543.592 1369.24 c 128,-1,69
+ 491.675 1329.47 491.675 1329.47 468.559 1243.2 c 0,70,71
+ 440.245 1137.53 440.245 1137.53 556.752 1071.96 c 1,72,73
+ 902.271 1114.64 902.271 1114.64 998.354 844.269 c 0,28,29
 EndSplineSet
-Kerns2: 399 -57 "'kern' Horizontal Kerning lookup 0 subtable"  392 -35 "'kern' Horizontal Kerning lookup 0 subtable"  379 -37 "'kern' Horizontal Kerning lookup 0 subtable" 
+Kerns2: 379 -37 "'kern' Horizontal Kerning lookup 0 subtable"  392 -35 "'kern' Horizontal Kerning lookup 0 subtable"  399 -57 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
-StartChar: S_TE
+StartChar: afii10084.alt1
 Encoding: 1114108 -1 681
 Width: 1821
 Flags: W
 LayerCount: 2
 Fore
-Refer: 328 713 N 1 0 0 1 591 0 2
+SplineSet
+297 1321 m 1,0,-1
+ 323 1498 l 1,1,-1
+ 1861 1498 l 1,2,-1
+ 1834 1321 l 1,3,-1
+ 297 1321 l 1,0,-1
+EndSplineSet
 Refer: 477 1096 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10090.alt1
+Encoding: 1114107 -1 682
+Width: 1821
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+17 -399 m 1,0,-1
+ 43 -222 l 1,1,-1
+ 1581 -222 l 1,2,-1
+ 1554 -399 l 1,3,-1
+ 17 -399 l 1,0,-1
+EndSplineSet
+Refer: 477 1096 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10081.alt1
+Encoding: 1114106 -1 683
+Width: 1251
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1233 1283 m 1,0,-1
+ 277 1283 l 1,1,-1
+ 310 1451 l 1,2,-1
+ 1270 1451 l 1,3,-1
+ 1233 1283 l 1,0,-1
+EndSplineSet
+Refer: 88 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: afii10068.alt1
+Encoding: 1114105 1114105 684
+Width: 569
+Flags: W
+LayerCount: 2
+Fore
+Refer: 328 713 N 1 0 0 1 -56 0 2
+Refer: 241 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: afii10069.alt1
+Encoding: 1114104 1114104 685
+Width: 1251
+Flags: W
+LayerCount: 2
+Fore
+Refer: 74 103 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni266C
+Encoding: 9836 9836 686
+Width: 1536
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1263 324 m 2,0,1
+ 1263 261 1263 261 1245 210.5 c 128,-1,2
+ 1227 160 1227 160 1189 125 c 1,3,4
+ 1152 88 1152 88 1108 68.5 c 128,-1,5
+ 1064 49 1064 49 1013 49 c 0,6,7
+ 956 49 956 49 927.5 76 c 128,-1,8
+ 899 103 899 103 899 150 c 0,9,10
+ 899 226 899 226 956 283 c 1,11,12
+ 1018 342 1018 342 1099 342 c 0,13,14
+ 1147 342 1147 342 1189 324 c 1,15,-1
+ 1189 772 l 1,16,-1
+ 639 623 l 1,17,-1
+ 639 229 l 2,18,19
+ 639 167 639 167 620.5 118 c 128,-1,20
+ 602 69 602 69 567 31 c 1,21,22
+ 493 -43 493 -43 387 -43 c 0,23,24
+ 330 -43 330 -43 301 -16.5 c 128,-1,25
+ 272 10 272 10 272 55 c 0,26,27
+ 272 131 272 131 331 188 c 1,28,29
+ 391 248 391 248 475 248 c 0,30,31
+ 520 248 520 248 565 229 c 1,32,-1
+ 565 981 l 1,33,-1
+ 1263 1159 l 1,34,-1
+ 1263 324 l 2,0,1
+639 750 m 1,35,-1
+ 1189 899 l 1,36,-1
+ 1189 1016 l 1,37,-1
+ 639 864 l 1,38,-1
+ 639 750 l 1,35,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont

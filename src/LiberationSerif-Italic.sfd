@@ -4,7 +4,7 @@ FullName: Liberation Serif Italic
 FamilyName: Liberation Serif
 Weight: Book
 Copyright: Copyright (c) 2007 Red Hat, Inc. All rights reserved. LIBERATION is a trademark of Red Hat, Inc.
-Version: 1.07.2
+Version: 1.07.4
 ItalicAngle: -16.333
 UnderlinePosition: -173
 UnderlineWidth: 100
@@ -19,7 +19,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1123398000
-ModificationTime: 1328000087
+ModificationTime: 1385979879
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -3092,18 +3092,18 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "" "Ascender - Liberation Serif Italic" "" "Version 1.07.2" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Liberation Fonts license, see https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" "https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" 
-GaspTable: 3 8 2 20 1 65535 3
+LangName: 1033 "" "" "" "Ascender - Liberation Serif Italic" "" "Version 1.07.4" "" "Liberation is a trademark of Red Hat, Inc. registered in U.S. Patent and Trademark Office and certain other jurisdictions." "Ascender Corporation" "Steve Matteson" "" "http://www.ascendercorp.com/" "http://www.ascendercorp.com/typedesigners.html" "Licensed under the Liberation Fonts license, see https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" "https://fedoraproject.org/wiki/Licensing/LiberationFontLicense" 
+GaspTable: 3 8 2 20 1 65535 3 0
 Encoding: UnicodeFull
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -24
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60 30 18
+WinInfo: 9802 26 18
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114124 673
+BeginChars: 1114124 678
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -44588,11 +44588,11 @@ EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-158 1161 m 1,0,-1
- 177 1270 l 1,1,-1
- 805 1270 l 1,2,-1
- 786 1161 l 1,3,-1
- 158 1161 l 1,0,-1
+158 1161 m 5,0,-1
+ 177 1270 l 5,1,-1
+ 805 1270 l 5,2,-1
+ 786 1161 l 5,3,-1
+ 158 1161 l 5,0,-1
 EndSplineSet
 EndChar
 
@@ -61914,7 +61914,7 @@ SplineSet
  90 330 90 330 90 429 c 0,16,17
 EndSplineSet
 Kerns2: 485 -51 "'kern' Horizontal Kerning lookup 0 subtable"  483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  480 -51 "'kern' Horizontal Kerning lookup 0 subtable"  477 -27 "'kern' Horizontal Kerning lookup 0 subtable"  475 -41 "'kern' Horizontal Kerning lookup 0 subtable"  474 -27 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  471 -27 "'kern' Horizontal Kerning lookup 0 subtable"  468 -27 "'kern' Horizontal Kerning lookup 0 subtable"  466 -78 "'kern' Horizontal Kerning lookup 0 subtable"  465 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 -27 "'kern' Horizontal Kerning lookup 0 subtable"  460 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" S_BE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10066.alt1
 EndChar
 
 StartChar: afii10067
@@ -62317,7 +62317,7 @@ SplineSet
  753 854 753 854 753 748 c 0,0,1
 EndSplineSet
 Kerns2: 465 -27 "'kern' Horizontal Kerning lookup 0 subtable"  17 -27 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" imacron
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10068.alt1
 EndChar
 
 StartChar: afii10069
@@ -62495,7 +62495,7 @@ SplineSet
  680 858 680 858 579 858 c 0,43,44
 EndSplineSet
 Kerns2: 483 -27 "'kern' Horizontal Kerning lookup 0 subtable"  480 -27 "'kern' Horizontal Kerning lookup 0 subtable"  473 -27 "'kern' Horizontal Kerning lookup 0 subtable"  459 25 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" g
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10069.alt1
 EndChar
 
 StartChar: afii10070
@@ -63909,7 +63909,7 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 81 110 N 1 0 0 1 0 0 3
-Substitution2: "'locl' Localized Forms lookup 0-1" umacron
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10081.alt1
 EndChar
 
 StartChar: afii10082
@@ -63940,7 +63940,7 @@ LayerCount: 2
 Fore
 Refer: 80 109 N 1 0 0 1 0 0 3
 Kerns2: 485 25 "'kern' Horizontal Kerning lookup 0 subtable"  473 -51 "'kern' Horizontal Kerning lookup 0 subtable"  461 25 "'kern' Horizontal Kerning lookup 0 subtable"  454 25 "'kern' Horizontal Kerning lookup 0 subtable"  17 25 "'kern' Horizontal Kerning lookup 0 subtable"  15 51 "'kern' Horizontal Kerning lookup 0 subtable" 
-Substitution2: "'locl' Localized Forms lookup 0-1" S_TE
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10084.alt1
 EndChar
 
 StartChar: afii10085
@@ -64818,6 +64818,7 @@ SplineSet
  743 -25 743 -25 691 30.5 c 128,-1,63
  639 86 639 86 639 194 c 1,0,1
 EndSplineSet
+Substitution2: "'locl' Localized Forms lookup 0-1" afii10090.alt1
 EndChar
 
 StartChar: afii10091
@@ -86951,148 +86952,33 @@ StartChar: musicalnotedbl
 Encoding: 9835 9835 647
 Width: 1536
 Flags: W
-TtInstrs:
-NPUSHB
- 61
- 35
- 32
- 64
- 18
- 26
- 128
- 36
- 15
- 64
- 111
- 0
- 1
- 0
- 128
- 15
- 9
- 1
- 9
- 9
- 0
- 26
- 1
- 26
- 17
- 35
- 86
- 35
- 1
- 67
- 35
- 1
- 35
- 16
- 36
- 54
- 36
- 1
- 37
- 36
- 1
- 20
- 36
- 1
- 3
- 36
- 1
- 8
- 36
- 34
- 38
- 33
- 88
- 33
- 1
- 33
- 37
- 34
- 30
- 23
- 13
- 6
-SVTCA[y-axis]
-MDAP[rnd]
-MDRP[min,rnd,black]
-MDAP[rnd]
-MDRP[min,rnd,black]
-MDAP[rnd]
-SHP[rp1]
-SHP[rp1]
-DELTAP1
-SRP1
-SHP[rp1]
-SRP1
-SHP[rp1]
-SDB
-DELTAP1
-DELTAP1
-DELTAP1
-DELTAP1
-SRP1
-SHP[rp1]
-SHP[rp1]
-DELTAP1
-DELTAP1
-SRP1
-SHP[rp1]
-SVTCA[x-axis]
-MDAP[rnd]
-DELTAP1
-SHP[rp1]
-MDAP[rnd]
-DELTAP1
-SMD
-MDRP[rp0,min,rnd,black]
-DELTAP1
-SMD
-MDRP[min,rnd,black]
-SHP[rp2]
-SMD
-SRP0
-MDRP[rp0,min,rnd,black]
-SMD
-MDRP[min,rnd,black]
-SHP[rp1]
-IUP[x]
-IUP[y]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
-1263 324 m 2,0,1
- 1263 261 1263 261 1245 210.5 c 128,-1,2
- 1227 160 1227 160 1189 125 c 1,3,4
- 1152 88 1152 88 1108 68.5 c 128,-1,5
- 1064 49 1064 49 1013 49 c 0,6,7
- 956 49 956 49 927.5 76 c 128,-1,8
- 899 103 899 103 899 150 c 0,9,10
- 899 226 899 226 956 283 c 1,11,12
- 1018 342 1018 342 1099 342 c 0,13,14
- 1147 342 1147 342 1189 324 c 1,15,-1
- 1189 772 l 1,16,-1
- 639 623 l 1,17,-1
- 639 229 l 2,18,19
- 639 167 639 167 620.5 118 c 128,-1,20
- 602 69 602 69 567 31 c 1,21,22
- 493 -43 493 -43 387 -43 c 0,23,24
- 330 -43 330 -43 301 -16.5 c 128,-1,25
- 272 10 272 10 272 55 c 0,26,27
- 272 131 272 131 331 188 c 1,28,29
- 391 248 391 248 475 248 c 0,30,31
- 520 248 520 248 565 229 c 1,32,-1
- 565 981 l 1,33,-1
- 1263 1159 l 1,34,-1
- 1263 324 l 2,0,1
-639 750 m 1,35,-1
- 1189 899 l 1,36,-1
- 1189 1016 l 1,37,-1
- 639 864 l 1,38,-1
- 639 750 l 1,35,-1
+1263 214 m 2,0,1
+ 1263 151 1263 151 1245 100.5 c 128,-1,2
+ 1227 50 1227 50 1189 15 c 1,3,4
+ 1152 -22 1152 -22 1108 -41.5 c 128,-1,5
+ 1064 -61 1064 -61 1013 -61 c 0,6,7
+ 956 -61 956 -61 927.5 -34 c 128,-1,8
+ 899 -7 899 -7 899 40 c 0,9,10
+ 899 116 899 116 956 173 c 1,11,12
+ 1018 232 1018 232 1099 232 c 0,13,14
+ 1147 232 1147 232 1189 214 c 1,15,-1
+ 1189 904 l 1,16,-1
+ 639 1050 l 1,17,-1
+ 639 394 l 2,18,19
+ 639 332 639 332 620.5 283 c 128,-1,20
+ 602 234 602 234 567 196 c 1,21,22
+ 493 122 493 122 387 122 c 0,23,24
+ 330 122 330 122 301 148.5 c 128,-1,25
+ 272 175 272 175 272 220 c 0,26,27
+ 272 296 272 296 331 353 c 1,28,29
+ 391 413 391 413 475 413 c 0,30,31
+ 520 413 520 413 565 394 c 1,32,-1
+ 565 1166 l 1,33,-1
+ 1263 1000 l 1,34,-1
+ 1263 214 l 2,0,1
 EndSplineSet
 EndChar
 
@@ -88694,12 +88580,12 @@ EndChar
 
 StartChar: uni040D
 Encoding: 1037 1037 668
-Width: 1366
+Width: 1479
 Flags: W
 LayerCount: 2
 Fore
+Refer: 430 1048 N 1 0 0 1 0 0 2
 Refer: 67 96 N 1 0 0 1 254 332 2
-Refer: 49 78 N 1 0 0 1 0 0 2
 EndChar
 
 StartChar: uni0450
@@ -88722,77 +88608,167 @@ Refer: 67 96 N 1 0 0 1 60 8 2
 Refer: 462 1080 N 1 0 0 1 0 0 2
 EndChar
 
-StartChar: S_BE
+StartChar: afii10066.alt1
 Encoding: 1114109 -1 671
 Width: 965
-Flags: HW
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
-369.559 1188 m 0,0,1
- 381.887 1246 381.887 1246 414.452 1291 c 128,-1,2
- 447.017 1336 447.017 1336 495.106 1367 c 128,-1,3
- 543.195 1398 543.195 1398 604.203 1414.5 c 128,-1,4
- 665.21 1431 665.21 1431 734.21 1431 c 0,5,6
- 802.21 1431 802.21 1431 851.939 1401.5 c 128,-1,7
- 901.669 1372 901.669 1372 924.08 1341 c 1,8,-1
- 864.215 1304 l 1,9,10
- 821.205 1351 821.205 1351 719.205 1351 c 0,11,12
- 638.205 1351 638.205 1351 587.203 1311 c 128,-1,13
- 536.201 1271 536.201 1271 521.747 1203 c 0,14,15
- 513.883 1166 513.883 1166 523.262 1132.5 c 128,-1,16
- 532.641 1099 532.641 1099 555.414 1065 c 128,-1,17
- 578.188 1031 578.188 1031 612.929 994.5 c 128,-1,18
- 647.671 958 647.671 958 691.53 915 c 0,19,20
- 744.266 862 744.266 862 781.712 810 c 128,-1,21
- 819.159 758 819.159 758 839.362 702.5 c 128,-1,22
- 859.565 647 859.565 647 862.387 585 c 128,-1,23
- 865.208 523 865.208 523 849.691 450 c 0,24,25
- 826.311 340 826.311 340 781.318 253 c 128,-1,26
- 736.326 166 736.326 166 672.359 105 c 128,-1,27
- 608.394 44 608.394 44 526.592 12 c 128,-1,28
- 444.79 -20 444.79 -20 347.79 -20 c 0,29,30
- 252.79 -20 252.79 -20 182.423 6.5 c 128,-1,31
- 112.056 33 112.056 33 70.215 85.5 c 128,-1,32
- 28.3742 138 28.3742 138 17.0598 216.5 c 128,-1,33
- 5.74527 295 5.74527 295 27.8518 399 c 0,34,35
- 50.1701 504 50.1701 504 96.0686 583.5 c 128,-1,36
- 141.967 663 141.967 663 204.189 720.5 c 128,-1,37
- 266.411 778 266.411 778 340.882 815.5 c 128,-1,38
- 415.354 853 415.354 853 495.605 873 c 1,39,40
- 459.894 912 459.894 912 432.259 949 c 128,-1,41
- 404.623 986 404.623 986 387.2 1024 c 128,-1,42
- 369.777 1062 369.777 1062 364.886 1102.5 c 128,-1,43
- 359.994 1143 359.994 1143 369.559 1188 c 0,0,1
-198.151 391 m 0,44,45
- 181.997 315 181.997 315 183.531 254 c 128,-1,46
- 185.064 193 185.064 193 205.818 149.5 c 128,-1,47
- 226.572 106 226.572 106 266.077 82.5 c 128,-1,48
- 305.582 59 305.582 59 365.582 59 c 0,49,50
- 474.582 59 474.582 59 552.606 148.5 c 128,-1,51
- 630.63 238 630.63 238 669.74 422 c 0,52,53
- 682.494 482 682.494 482 682.547 534 c 128,-1,54
- 682.6 586 682.6 586 669.377 632 c 128,-1,55
- 656.154 678 656.154 678 629.976 719.5 c 128,-1,56
- 603.797 761 603.797 761 565.299 801 c 0,57,58
- 559.362 806 559.362 806 554.425 811 c 128,-1,59
- 549.487 816 549.487 816 544.551 821 c 1,60,61
- 491.937 804 491.937 804 439.985 776 c 128,-1,62
- 388.033 748 388.033 748 342.118 699 c 128,-1,63
- 296.203 650 296.203 650 258.867 575.5 c 128,-1,64
- 221.532 501 221.532 501 198.151 391 c 0,44,45
+194.314 391 m 0,0,1
+ 179.31 335 179.31 335 177.465 274 c 0,2,3
+ 177.296 268.426 177.296 268.426 177.296 262.998 c 0,4,5
+ 177.296 209.025 177.296 209.025 193.964 169.5 c 0,6,7
+ 212.309 126 212.309 126 250.512 102.5 c 128,-1,8
+ 288.715 79 288.715 79 348.715 79 c 0,9,10
+ 457.715 79 457.715 79 535.337 148.5 c 128,-1,11
+ 612.959 218 612.959 218 656.903 382 c 0,12,13
+ 667.866 422.913 667.866 422.913 675.913 494 c 0,14,15
+ 682.785 554.697 682.785 554.697 684.008 593.25 c 1,16,17
+ 662.219 744 662.219 744 568.9 744 c 0,18,19
+ 426.235 744 426.235 744 344.625 659 c 0,20,21
+ 293.812 606.076 293.812 606.076 254.533 535.5 c 0,22,23
+ 213.071 461 213.071 461 194.314 391 c 0,0,1
+400.513 1041.77 m 0,24,25
+ 396.488 1017.74 396.488 1017.74 396.488 996.254 c 0,26,27
+ 396.488 902.67 396.488 902.67 472.84 857.32 c 1,28,29
+ 514.315 862.828 514.315 862.828 551.433 862.828 c 0,30,31
+ 768.532 862.828 768.532 862.828 836.502 674.4 c 0,32,33
+ 854.567 623.559 854.567 623.559 857.535 549.875 c 0,34,35
+ 857.833 542.473 857.833 542.473 857.833 534.892 c 0,36,37
+ 857.833 473.269 857.833 473.269 838.16 399.85 c 0,38,39
+ 813.107 306.35 813.107 306.35 765.183 229 c 128,-1,40
+ 717.256 151.649 717.256 151.649 650.062 95.9746 c 128,-1,41
+ 582.87 40.2998 582.87 40.2998 498.171 9.7002 c 128,-1,42
+ 413.472 -20.9004 413.472 -20.9004 315.722 -20.9004 c 0,43,44
+ 218.821 -20.9004 218.821 -20.9004 150.065 8 c 128,-1,45
+ 81.3086 36.9004 81.3086 36.9004 42.6465 90.875 c 128,-1,46
+ 3.9834 144.85 3.9834 144.85 -3.22559 222.625 c 0,47,48
+ -4.78223 239.413 -4.78223 239.413 -4.78223 257.133 c 0,49,50
+ -4.78223 321.501 -4.78223 321.501 15.7559 398.15 c 0,51,52
+ 41.2646 493.351 41.2646 493.351 92.332 568.15 c 128,-1,53
+ 143.398 642.95 143.398 642.95 188.454 695.311 c 128,-1,54
+ 233.509 747.67 233.509 747.67 304.618 798.925 c 1,55,56
+ 218.605 873.375 218.605 873.375 218.605 972.63 c 0,57,58
+ 218.605 1015.82 218.605 1015.82 234.89 1063.7 c 1,59,60
+ 283.763 1223 283.763 1223 397.56 1310 c 0,61,62
+ 462.957 1360 462.957 1360 517.46 1388 c 0,63,64
+ 608.946 1435 608.946 1435 780.054 1435 c 0,65,66
+ 848.054 1435 848.054 1435 896.149 1405.5 c 128,-1,67
+ 944.245 1376 944.245 1376 964.938 1345 c 1,68,-1
+ 895.254 1279 l 1,69,70
+ 838.439 1326.29 838.439 1326.29 764.494 1326.29 c 0,71,72
+ 758.723 1326.29 758.723 1326.29 752.848 1326 c 0,73,74
+ 561.774 1316.63 561.774 1316.63 457.512 1168 c 0,75,76
+ 410.808 1101.91 410.808 1101.91 400.513 1041.77 c 0,24,25
 EndSplineSet
 Kerns2: 400 -41 "'kern' Horizontal Kerning lookup 0 subtable" 
 EndChar
 
-StartChar: S_TE
+StartChar: afii10084.alt1
 Encoding: 1114108 -1 672
 Width: 1546
 Flags: W
 LayerCount: 2
 Fore
-Refer: 329 713 N 1 0 0 1 398 0 2
+SplineSet
+198 1161 m 1,0,-1
+ 217 1270 l 1,1,-1
+ 1515 1270 l 1,2,-1
+ 1496 1161 l 1,3,-1
+ 198 1161 l 1,0,-1
+EndSplineSet
 Refer: 478 1096 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10090.alt1
+Encoding: 1114107 -1 673
+Width: 1546
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+48 -329 m 1,0,-1
+ 67 -220 l 1,1,-1
+ 1365 -220 l 1,2,-1
+ 1346 -329 l 1,3,-1
+ 48 -329 l 1,0,-1
+EndSplineSet
+Refer: 478 1096 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10081.alt1
+Encoding: 1114106 -1 674
+Width: 1024
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+188 1161 m 1,0,-1
+ 207 1270 l 1,1,-1
+ 1015 1270 l 1,2,-1
+ 996 1161 l 1,3,-1
+ 188 1161 l 1,0,-1
+EndSplineSet
+Refer: 88 117 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: afii10068.alt1
+Encoding: 1114105 -1 675
+Width: 569
+Flags: W
+LayerCount: 2
+Fore
+Refer: 329 713 N 1 0 0 1 -78 0 2
+Refer: 241 305 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: afii10069.alt1
+Encoding: 1114104 -1 676
+Width: 1024
+Flags: W
+LayerCount: 2
+Fore
+Refer: 74 103 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: uni266C
+Encoding: 9836 9836 677
+Width: 1536
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1263 324 m 2,0,1
+ 1263 261 1263 261 1245 210.5 c 128,-1,2
+ 1227 160 1227 160 1189 125 c 1,3,4
+ 1152 88 1152 88 1108 68.5 c 128,-1,5
+ 1064 49 1064 49 1013 49 c 0,6,7
+ 956 49 956 49 927.5 76 c 128,-1,8
+ 899 103 899 103 899 150 c 0,9,10
+ 899 226 899 226 956 283 c 1,11,12
+ 1018 342 1018 342 1099 342 c 0,13,14
+ 1147 342 1147 342 1189 324 c 1,15,-1
+ 1189 772 l 1,16,-1
+ 639 623 l 1,17,-1
+ 639 229 l 2,18,19
+ 639 167 639 167 620.5 118 c 128,-1,20
+ 602 69 602 69 567 31 c 1,21,22
+ 493 -43 493 -43 387 -43 c 0,23,24
+ 330 -43 330 -43 301 -16.5 c 128,-1,25
+ 272 10 272 10 272 55 c 0,26,27
+ 272 131 272 131 331 188 c 1,28,29
+ 391 248 391 248 475 248 c 0,30,31
+ 520 248 520 248 565 229 c 1,32,-1
+ 565 981 l 1,33,-1
+ 1263 1159 l 1,34,-1
+ 1263 324 l 2,0,1
+639 750 m 1,35,-1
+ 1189 899 l 1,36,-1
+ 1189 1016 l 1,37,-1
+ 639 864 l 1,38,-1
+ 639 750 l 1,35,-1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
