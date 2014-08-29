@@ -1,3 +1,18 @@
+* Fri 18 2014 Pravin Satpute <psatpute@redhat.com> 1.07.4
+- Restored Liberation Sans Bold 'u' instructions
+- Resolved #1009650, renames serbian shapes as per AGL
+- Added new glyph for "imacron" and "g"
+- Added Correct shape for uni266B in all Liberation variants #1014357
+- Resolved Problematic shapes for macedonian alphabet #1013949
+
+
+* Fri Aug 23 2013 Pravin Satpute <psatpute@redhat.com> 1.07.3
+- Corrected U+2588 shape to match with Dejavu fonts in Mono
+- Resolved Serbian bug #984428
+- applied patch to remove kerning for number 1
+- corrected shape of U+040D #799384
+- Makefile restructure patch from Jan Pokorny <jpokorny@redhat.com>
+
 * Thu Feb 09 2012 Pravin Satpute <psatpute@redhat.com> 1.07.2
 - removed hint instruction from LiberationMono-Italic cent sing, rhbz #753572
 - adeed U+0472, U+0473 in Sans and SansNarrow, rhbz #751566

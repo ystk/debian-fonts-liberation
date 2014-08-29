@@ -8,17 +8,18 @@ Uploaders: Alan Baghumian <alan@technotux.org>,
  Holger Levsen <holger@debian.org>,
  Fabian Greffrath <fabian+debian@greffrath.com>
 Build-Depends: debhelper (>= 8)
-Build-Depends-Indep: fontforge-nox | fontforge, zip
-Standards-Version: 3.9.2
+Build-Depends-Indep: fontforge-nox | fontforge
+Standards-Version: 3.9.4
 Homepage: https://fedorahosted.org/liberation-fonts/
-Vcs-Svn: svn://svn.debian.org/pkg-fonts/packages/fonts-liberation/
-Vcs-Browser: http://svn.debian.org/wsvn/pkg-fonts/packages/fonts-liberation/
+Vcs-Git: git://anonscm.debian.org/pkg-fonts/fonts-liberation.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-fonts/fonts-liberation.git;a=summary
 
 Package: fonts-liberation
 Architecture: all
+Multi-Arch: foreign
 Depends: ${misc:Depends}
 Replaces: ttf-liberation (<< 1.07.0-2)
-Conflicts: ttf-liberation (<< 1.07.0-2)
+Breaks: ttf-liberation (<< 1.07.0-2)
 Description: Fonts with the same metrics as Times, Arial and Courier
  A set of serif, sans-serif and monospaced fonts from Red Hat with
  exactly the same metrics as the (non-free) Microsoft Times, Arial
@@ -28,8 +29,8 @@ Description: Fonts with the same metrics as Times, Arial and Courier
 Package: ttf-liberation
 Depends: fonts-liberation, ${misc:Depends}
 Architecture: all
+Multi-Arch: foreign
 Section: oldlibs
 Priority: extra
 Description: transitional dummy package
  This package is a dummy transitional package. It can be safely removed.
-

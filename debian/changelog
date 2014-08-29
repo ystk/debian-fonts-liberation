@@ -1,3 +1,46 @@
+fonts-liberation (1.07.4-1) unstable; urgency=medium
+
+  * Fix debian/watch to only check for 1.x versions.
+  * Imported Upstream version 1.07.4
+  * Remove all patches, applied upstream.
+
+ -- Fabian Greffrath <fabian+debian@greffrath.com>  Tue, 22 Apr 2014 11:20:40 +0200
+
+fonts-liberation (1.07.3-3) unstable; urgency=low
+
+  * Add back transitional ttf-liberation dummy package (Closes: #725646).
+
+ -- Fabian Greffrath <fabian+debian@greffrath.com>  Tue, 08 Oct 2013 06:24:41 +0200
+
+fonts-liberation (1.07.3-2) unstable; urgency=low
+
+  * Apply patch from upstream to fix re-introduced RH#715309 (hinting problem
+    of Liberation Sans Bold character 'u' at particular point sizes)
+  * Bump Standards-Version to 3.9.4, no further changes needed.
+
+ -- Fabian Greffrath <fabian+debian@greffrath.com>  Thu, 29 Aug 2013 09:49:30 +0200
+
+fonts-liberation (1.07.3-1) unstable; urgency=low
+
+  * Imported Upstream version 1.07.3
+  * Remove patch, applied upstream.
+
+ -- Fabian Greffrath <fabian+debian@greffrath.com>  Mon, 26 Aug 2013 10:07:35 +0200
+
+fonts-liberation (1.07.2-7) unstable; urgency=low
+
+  * Fix Vcs-* fields in debian/control to point to the GIT repository,
+    thanks Christian Perrier!
+  * Mark binary packages Multi-Arch: foreign (Closes: #694864, #705178).
+  * Change Conflicts to Breaks: ttf-liberation (<< 1.07.0-2).
+  * Remove Build-Depends-Indep: zip, it's never been actually used at all.
+  * Replace patch set with combined patch from
+    liberation-fonts-1.07.2-13.fc19.src.rpm Fedora package.
+  * Remove transitional ttf-liberation dummy package.
+  * Remove obsolete Breaks and Replaces: ttf-liberation (<< 1.07.0-2).
+
+ -- Fabian Greffrath <fabian+debian@greffrath.com>  Thu, 18 Jul 2013 18:16:29 +0200
+
 fonts-liberation (1.07.2-6) unstable; urgency=low
 
   * The fonts-liberation packages must not "Provides: ttf-liberation"
